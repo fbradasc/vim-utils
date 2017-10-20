@@ -9,3 +9,4 @@ A collection of Various vim utilities
   tabmenu         : show the open tabs in a gui menu
   tab-multi-diff  : allow to open a new tab on a new diff
   mb              : mark buffers
+  arduino_menu    : add a gui menu with shortcuts to vim-arduino commands
