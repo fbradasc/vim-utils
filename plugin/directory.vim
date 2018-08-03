@@ -1,4 +1,4 @@
-function AddDirectoryHelper(srcfiles, topsrcdir, menuname)
+function! AddDirectoryHelper(srcfiles, topsrcdir, menuname)
   silent! let first_buffer = bufnr("$")
   silent! let counter = 0
   while counter < len(a:srcfiles)
